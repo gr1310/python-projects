@@ -1,0 +1,7 @@
+The rules of the game are as follows:
+Snake size increases on getting food 
+Game gets over if snake collides with itself or with the walls
+Score increases as the snake eats food
+To refresh the game after gameover press "Space".
+
+On refreshing the game the highest score remains same while everything else is reseted.
